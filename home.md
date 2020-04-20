@@ -11,5 +11,5 @@ Seção 4: [Jenkins & Kubernetes](04-Jenkins-e-Kubernetes.md)
 Extra: [VMs com Vagrant e Ansible](https://gitlab.com/rocha.public/vm-host-archetype.md)  
 Extra: [Play With K8s](05-Extras-Play-With-K8s.md) 
    
-[![missaodevops.com.br](images/logo-missaodevops-02.png)](http://missaodevops.com.br.md)
+[![missaodevops.com.br](images/logo-missaodevops-02.png)](http://missaodevops.com.br)
   
