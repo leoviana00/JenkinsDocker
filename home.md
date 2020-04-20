@@ -3,7 +3,7 @@
 Material referente ao Curso [Jenkins em Larga Escala](https://www.udemy.com/missao-devops-jenkins-em-larga-escala-docker-e-kubernetes/?couponCode=LANCAMENTO).   
 
 ## Tópicos
-Seção 1: [Introdução](01-Intro)  
+Seção 1: [Introdução](01-Intro.md)  
 Seção 2: [Jenkins & Docker](02-Jenkins-e-Docker)  
 Seção 3: [Jenkins AutoConfig via Groovy](03-Jenkins-AutoConfig-Groovy)  
 Seção 4: [Jenkins & Kubernetes](04-Jenkins-e-Kubernetes)  
